@@ -216,7 +216,7 @@ body {
 	text-align: center;
 }
 
-.subscribe form input[type="emali"] {
+.subscribe form input[type="Email"] {
 	padding: 0 10px;
 	width: 300px;
 	font-size: 20px;
@@ -503,6 +503,7 @@ body {
 	border: 1px solid #ccc;
 	border-radius: 10px;
 	background-color: transparent;
+	color: #fff;
 }
 
 .contact form input[type="text"]:hover,
@@ -527,6 +528,7 @@ body {
 	border: 1px solid #ccc;
 	border-radius: 10px;
 	background-color: transparent;
+	color: #fff;
 }
 
 .contact textarea:hover{
